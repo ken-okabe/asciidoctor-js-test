@@ -1,0 +1,22 @@
+{
+  "name": "asciidoctor-js-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenokabe/asciidoctor-js-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenokabe/asciidoctor-js-test/issues"
+  },
+  "homepage": "https://github.com/kenokabe/asciidoctor-js-test#readme",
+  "dependencies": {
+    "asciidoctor.js": "^1.5.7"
+  }
+}

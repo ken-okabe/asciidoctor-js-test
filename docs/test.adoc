@@ -1,0 +1,9 @@
+= test
+:imagesdir: ./images
+
+image::./cat.jpg[]
+
+// should work, 
+// VS-Code extension
+// https://github.com/asciidoctor/asciidoctor-vscode shows it with
+// Asciidoctor.js mode
